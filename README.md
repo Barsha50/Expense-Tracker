@@ -10,10 +10,12 @@ A simple and effective Expense Tracker to help you monitor your daily income and
 - Lightweight and easy to use
 
 🧰 Tech Stack
+
 Frontend
 - ⚛️ React.js (with functional components)
 - 🧩 TypeScript
 - 🎨 Tailwind CSS + Inline CSS for styling
+
  Backend
 - 🔧 ASP.NET Core 
 - 🗄️ Entity Framework Core (for data access)
